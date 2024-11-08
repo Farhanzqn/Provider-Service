@@ -9,18 +9,6 @@ Provider Service adalah layanan berbasis REST API yang dirancang untuk mengelola
 - **Manajemen API**: Menyediakan endpoint yang mudah digunakan oleh klien eksternal untuk mengakses data penyedia layanan.
 - **Logging dan Penanganan Error**: Dilengkapi dengan sistem logging untuk melacak aktivitas dan menangani error secara efisien.
 
-## Teknologi yang Digunakan
-
-- **Framework Backend**: Menggunakan framework seperti Django, Express.js, atau Laravel untuk mendukung pengembangan API.
-- **Database**: MySQL atau PostgreSQL untuk penyimpanan data yang andal dan dapat diskalakan.
-- **Autentikasi**: Menggunakan JWT (JSON Web Token) atau OAuth untuk mengamankan API.
-
-## Persyaratan
-
-- **Node.js** dan **npm** (untuk proyek berbasis JavaScript)
-- **Database MySQL/PostgreSQL** yang dikonfigurasi dan dapat diakses
-- **Alat Postman** atau aplikasi klien API lainnya untuk pengujian endpoint
-
 ## Instalasi
 
 1. **Clone repositori ini** ke dalam komputer Anda:
